@@ -18,4 +18,4 @@
 
 ## Youtube Video (Image Link):
 
-[![Sprinkler Video](https://img.youtube.com/vi/9w24LzoHQvI/0.jpg)](https://www.youtube.com/watch?v=9w24LzoHQvI)
+[![Sprinkler Video](https://img.youtube.com/vi/nPhCEpLnrS0/0.jpg)](https://www.youtube.com/watch?v=nPhCEpLnrS0)
